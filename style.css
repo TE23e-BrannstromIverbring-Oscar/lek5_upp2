@@ -1,6 +1,6 @@
 /* Oscar Brännström Iverbring TE23e*/
 .Backgrund{
-    background-image: url(/img/Uppgift_2_Bilder/snow_winter_trees.jpg);
+    background-image: url(./img/Uppgift_2_Bilder/snow_winter_trees.jpg);
     background-size: cover;
     background-position: 55%;
     border: 2px solid #D6001C;
