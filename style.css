@@ -1,0 +1,115 @@
+/* Oscar Brännström Iverbring TE23e*/
+.Backgrund{
+    background-image: url(/img/Uppgift_2_Bilder/snow_winter_trees.jpg);
+    background-size: cover;
+    background-position: 55%;
+    border: 2px solid #D6001C;
+    border-radius: 5px;
+}
+
+.bilder{
+    border: 2px solid black;
+    flex-direction: row;
+    justify-content: space-around;
+    max-height: 35px;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+
+.lankar {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;  
+    border: 2px solid #D6001C;
+    margin-top: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 50px;
+    border-radius: 5px;
+}
+
+h1{
+    text-align: center;
+}
+
+.MoC{
+    font-family: "Mountains of Christmas", serif;
+    font-weight: 700;
+    font-style: normal;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 150px;
+    margin-top: 70px;
+}
+
+.mellan{
+    display: flex;
+    border: 2px solid #D6001C;
+    margin-top: 5px;
+    border-radius: 5px;
+    height: 530px;
+    width: 100%;
+}
+
+.vänster{
+    display:flex;
+    border: 2px solid #D6001C;
+    border-radius: 5px;
+    height: 500px;
+    width: 13%;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.Bilder{
+    border: 2px solid black;
+    border-radius: 5px;
+    max-height: 300px;
+    max-width: 100%;
+    height: 30px;
+    width: 80%;
+    margin-left: 10px;
+}
+
+.webb_utveckling{
+    margin-top: 10px;
+}
+
+.mitten{
+    border: 2px solid #D6001C;
+    border-radius: 5px;
+    height: 500px;
+    width: 75%;
+    margin-top: 5px;
+    margin-left: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+p{
+    margin-right: 20px;
+}
+
+.höger{
+    display: flex;
+    border: 2px solid #D6001C;
+    border-radius: 5px;
+    height: 500px;
+    width: 90px;
+    margin-top: 5px;
+    margin-left: 20px;
+}
+
+.julträd{
+    width: 90px;
+}
+
+.sidfot{
+    border: 2px solid #D6001C;
+    border-radius: 5px;
+    margin-top: 5px;
+    text-align: center;
+}
